@@ -1,4 +1,4 @@
-#! /bin/bash
+#!/usr/bin/env bash
 # Verifies that files passed in are encrypted
 set -e 
 
